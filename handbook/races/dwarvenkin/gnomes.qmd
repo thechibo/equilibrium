@@ -1,0 +1,49 @@
+---
+title: "Gnomes"
+---
+
+<div class = "sidefigure">
+  ![](../../../figures/gnomes.png){fig-alt="Gnomes" fig-align="right"}
+</div>
+
+#### Origins
+
+In the vast and ancient realm of Terra, one can find a unique and enigmatic race known as Dwarves. These beings are unlike any other inhabitants of this mystical world, for they are not merely born into existence as others are, but rather, they are the very offspring of Terra itself. In stark contrast to the societies of Elves or the familiar human families, Dwarves know not the concept of gender. They exist as a singular, undivided people, sculpted by the hand of their ancestors, unburdened by the intricate complexities of human reproduction.
+
+While they do not require sustenance, Dwarves occasionally indulge in the consumption of food and ale, though their culinary preferences lean towards the unadorned and the robust - roots, wafers, and hearty ales. They retire to rest for a duration of eight hours, much like their human counterparts, yet once slumber claims a Dwarf, they are said to sleep as soundly as the rocks that surround them. Attempting to rouse a sleeping Dwarf is not for the faint of heart, for it often requires a measure of force, and be forewarned, they respond to such disturbances with a vigorous retaliation. 
+
+In the realm of Dwarvenkin, there exists a diminutive race known as gnomes, often referred to as "hill" dwarves. Gnomes are crafted from soil, a remarkable feature that grants them a distinctive blend of characteristics. They are softer than the stony dwarves of Lethenie, yet sturdier than the flesh and blood of humans.
+
+#### Physical Form
+
+These enigmatic beings stand at a height of approximately 0.8 to 1 meter and possess a unique composition that sets them apart from both their dwarven and human counterparts. Some whisper that gnomes can live for a hundred years, while others believe they might extend their existence for a thousand. However, gnomes take great delight in shrouding this aspect of their lives in secrecy, preferring to keep the world guessing. 
+
+#### Society
+
+In a world where tradition and isolationism often define dwarven society, gnomes are the renegades of their kin. While their dwarf brethren dwell deep within the earth or secluded mountain fortresses, gnomes choose a different path. They embrace the human world, living in villages and small towns alongside their larger neighbors. Such a choice is regarded as anathema by most dwarves, who view it as a betrayal of their heritage. 
+Yet, gnomes have their reasons, for they possess an insatiable thirst for knowledge. Gnomes are relentless seekers of wisdom, ever on a quest to expand their understanding of the world. They can be found poring over dusty tomes in a library or listening intently to the melodies spun by traveling bards. Their adaptability to human ways is nothing short of astonishing, and they willingly follow human laws and customs. This assimilation has earned them a unique position in society, often holding prestigious roles such as counselors or artificers, serving local lords or kings.
+
+But beneath their seemingly boundless curiosity and outward adaptability, gnomes carry a burden. They harbor a deep-seated sense of fragility, constantly feeling inferior to their dwarven cousins and the more numerous humans. The world has not always treated them kindly, and though they may forgive, they do not forget. To earn the friendship of a gnome requires a special touch. Manners, courtesy, and civility are paramount. Gnomes appreciate these virtues and are always eager to hear tales of adventures from distant and mysterious lands. 
+
+#### Combat Style
+
+In the realm of arms and armor, gnomes prefer subtlety over sheer brute force. They are skilled with a variety of weapons such as daggers, canes, short swords, sickles, picks, or any tools that can be wielded with precision. Armor, however, is another matter entirely. Gnomes shy away from heavy protection, instead favoring something lighter yet elegant. Good quality leather is their preferred choice, offering both freedom of movement and a touch of finesse. Gnomes, the curious hill dwarves, have carved their own niche in a world where tradition often reigns supreme. With their insatiable appetite for knowledge and their knack for adaptation, they have become a bridge between the worlds of dwarves and humans. While their hearts may be fragile, their spirits remain indomitable, ever ready to embrace the mysteries of the world and share in the adventures of those who approach them with respect and kindness.
+
+#### Stats 
+
+Gnomes begin with the following ability points at level 0: 
+
+- 10 Vitality 
+- 20 Sanity
+- +1 Strength 
+- +3 Dexterity 
+- +3 Intelligence
+- +0 Willpower
+
+#### Special Abilities
+
+**Subterrans:** Gnomes have resistance against slashing damage.
+
+**Mama hide me:** Gnomes can camouflage themselves over any stone area, gaining +10 Stealth while standing still.
+
+**Talented:** Gnomes practice many different arts. They gain +3 Profession points.

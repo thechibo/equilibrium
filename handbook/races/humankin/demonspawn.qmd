@@ -1,0 +1,50 @@
+---
+title: "Demonspawn"
+---
+
+<div class = "sidefigure">
+  ![](../../../figures/demonspawn.png){fig-alt="Demonspawn" fig-align="right"}
+</div>
+
+#### Origins
+
+There are those among the ranks of humanity who, driven by a thirst for power and liberation, willingly delve into the depths of darkness. They form pacts and sign contracts with otherworldly beings, entities that promise them untold power and freedom. These cursed beings, shunned by human society, are known as Demonspawn. 
+
+#### Physical Form
+
+Towering above their mortal counterparts, they stand as large-sized creatures, their forms reaching heights of up to 2.2 meters and weighing a formidable 120 kilograms. The appearance of Demonspawn is as terrifying as their dark origins. Horns, like twisted talons, protrude from their heads, marking them as creatures of sinister lineage. Some may possess sharp claws, honed for rending flesh, while others bear wings that evoke a haunting beauty. Their lifespan, shrouded in mystery, is unknown, leaving open the possibility that they may possess a form of immortality, forever cursed to tread the realms of the living. 
+
+#### Society
+
+These physical manifestations of their infernal heritage serve as a testament to the depths they have delved into, forever marking them as outcasts from human and other societies. Forced to walk a solitary path, Demonspawn live lives cloaked in darkness. Cast out from the light of acceptance, they navigate a world that fears and despises their very existence. Solitude becomes their constant companion as they wander the fringes of society, ever mindful of the darkness that courses through their veins. 
+
+#### Combat Style
+
+Magic becomes the lifeblood of the Demonspawn, their abilities rooted in the arcane arts. They draw upon the forbidden and sinister forces that lie beyond mortal comprehension, harnessing magic as their primary means of power. However, these cursed beings are not limited to magic alone, for they possess the freedom to choose any weapon that aligns with their desires. Whether it be a wickedly curved blade, a staff pulsating with dark energy, or a bow whispered with curses, the Demonspawn can wield an array of weapons with lethal proficiency. While some Demonspawn find armor unnecessary, preferring the freedom of unencumbered movement, they possess the ability to utilize any type of protective gear. When the need arises, they can don armor of various materials, from hardened steel to enchanted warding plates.
+
+Though their physical resilience may be formidable on its own, the wise among them understand the value of additional protection, should they find themselves facing formidable adversaries. The path of Demonspawn is one fraught with darkness and isolation. They tread a perilous line between mortal and otherworldly, their souls forever marked by the pacts they have made. Each Demonspawn is a testament to the price one is willing to pay for power, their existence a haunting reminder of the consequences that accompany the pursuit of forbidden knowledge and otherworldly bargains. 
+
+#### Stats 
+
+Demonspawn begin with the following ability points at level 0: 
+
+- 20 Vitality
+- 20 Sanity
+- +2 Strength
+- +1 Dexterity
+- +1 Intelligence
+- +2 Willpower
+
+#### Special Abilities
+
+**Dark Aura:** Demonspawn emit a dark aura around them. They gain advantage on stealth checks made in the dark. 
+
+**Darkvision:** Demonspawn have darkvision and light sensitivity.
+
+**Demonic Resistances:** Demonspawn are particularly resistant to elemental magic. They have resistance against 3 of the following elements: earth, fire, water, and wind. They have vulnerability against the light.
+
+**Blood Magic:** Demonspawn have the ability to use their own blood as fuel for their incantations. Once per day, they can sacrifice a portion of their vitality to cast a spell. The points lost are equal to double the spell's tier. The spell may be from the complete spell list and does not have to be a known one. It cannot belong to the Light element, and it cannot be of a tier higher than the character's Intelligence score.
+
+**Silver Tongue:** Demonspawn gain two extra profession points, one in chronicler and one in lawyer.
+
+**Natural Armor:** Demonspawn have hard skin, gaining a +1 natural armor bonus. 

@@ -1,0 +1,30 @@
+---
+title: "Dexterity"
+---
+
+### Introduction
+
+Dexterity measures a creature's agility, reflexes, and speed. This ability plays a pivotal role for adventurers seeking to slip unnoticed through the shadows or gracefully traverse treacherous rooftops.
+
+### Talents
+
+An ability point assigned to strength, dexterity, intelligence, or willpower grants a new combat talent to the creature. Dexterity-based talents are called maneuvers. A creature knows a number of maneuvers equal to its dexterity score. 
+
+The tier of a talent cannot surpass the corresponding ability score of the creature. For example, a creature with a strength score of 4 cannot learn a 5th-tier feat (since it would not be able to use it).
+
+### Defenses
+
+In contrast to many RPG games, dexterity is not added to the armor bonus by default. This is a maneuver that needs to be activated.
+
+### Losing Dexterity
+
+A creature's grace and agility, epitomized by their Dexterity score, can dramatically impact their ability to undertake mundane tasks. As this score plummets below zero, a dismal state of clumsiness befalls the unfortunate being, hindering their very existence. 
+
+Indicative Effects:
+
+- 0: The creature is prone to occasional trips.
+- -1: The creature is clumsy.
+- -2: Visible paralysis hampers the creature's movement. 
+- -3: Even the most basic actions require great effort. 
+- -4: The creature is significantly paralyzed.
+- -5: The creature is incapacitated (see conditions).

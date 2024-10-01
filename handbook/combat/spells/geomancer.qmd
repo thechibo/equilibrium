@@ -1,0 +1,17 @@
+---
+title: "Geomancer"
+---
+
+### Class Description
+
+A geomancer, master of earth's primal forces, channels the raw power of the land. With a mere gesture, they can command the earth to rise and shield allies or to collapse and trap foes. These casters of the earth element draw strength from the stability and resilience of stone and soil, forging an unbreakable bond with the terrain. Whether shaping landscapes or summoning earthen golems, a geomancer's connection to the ground beneath their feet makes them formidable defenders and relentless opponents, embodying the enduring spirit of the earth itself.
+
+### Talent List
+
+```{r echo=FALSE, results='asis'}
+rootdir <- file.path(getwd(), "../", "../", "../")
+source(file.path(rootdir, "src", "talents.R"))
+path <- file.path(rootdir, "data", "talents.xlsx")
+df <- readxl::read_excel(path, sheet = "Geomancer")
+add_talents(df)
+```

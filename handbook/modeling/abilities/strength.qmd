@@ -1,0 +1,30 @@
+---
+title: "Strength"
+---
+
+### Introduction
+
+Strength measures a creature's physical power. This ability is important for characters that like to break down doors or engage in hand-to-hand combat. 
+
+### Talents
+
+An ability point assigned to strength, dexterity, intelligence, or willpower grants a new combat talent to the creature. Strength-based talents are called feats. A creature knows a number of feats equal to its strength score.
+
+The tier of a talent cannot surpass the corresponding ability score of the creature. For example, a creature with a strength score of 4 cannot learn a 5th-tier feat (since it would not be able to use it).
+
+### Armor
+
+Strength determines the armor a creature can don. Armor comes in parts: A creature may wear a breastplate, gauntlets, a helmet, and so on. The combined armor bonus granted by all armor components cannot surpass the creature's strength score. A creature that surpasses this threshold is considered restrained (See Conditions).
+
+### Losing Strength
+
+The embodiment of a creature's sheer might and power is encapsulated in their strength score. However, should this score dwindle below zero, a grim reality of feebleness befalls the unfortunate being, rendering them unable to undertake the simplest of everyday actions. 
+
+Indicative Effects:
+
+- 0: The creature struggles with lifting heavy objects.
+- -1: Opening jars becomes a nightmare.
+- -2: Lifting even light objects becomes an insurmountable challenge. 
+- -3: The merest force knocks the creature off balance. 
+- -4: The creature needs assistance to remain standing.
+- -5: The creature is incapacitated (see conditions).

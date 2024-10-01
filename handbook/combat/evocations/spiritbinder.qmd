@@ -1,0 +1,17 @@
+---
+title: "Spiritbinder"
+---
+
+### Class Description
+
+
+
+### Talent List
+
+```{r echo=FALSE, results='asis'}
+rootdir <- file.path(getwd(), "../", "../", "../")
+source(file.path(rootdir, "src", "talents.R"))
+path <- file.path(rootdir, "data", "talents.xlsx")
+df <- readxl::read_excel(path, sheet = "Spiritbinder")
+add_talents(df)
+```

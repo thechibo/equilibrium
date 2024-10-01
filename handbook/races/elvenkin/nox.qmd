@@ -1,0 +1,54 @@
+---
+title: "Nox"
+---
+
+### Information
+
+#### Origins
+
+Some Elves choose the path of night. The Frozen Legion is one of the most formidable guilds the world has ever known. To become a nox, a sylvan elf must attend the Rite of the Frozen Legion, drowning in a frozen lake under the night sky, infused with undead blood. This metamorphosis turns them into creatures of ice and darkness. They are nox, the Drowned Ones.
+
+#### Physical Form
+
+Nox retain most of their elven physical characteristics. Their skin turns greyish-black, their eyes shine from red to purple and then to pitch black depending on their temper. Their lifespan is said to increase to 500 years, but most of them die in battle way before they reach older age.
+
+#### Society
+
+Nox lead solitary lives. They can be found in human cities, clocking travelers from the top of a watchtower or the corner of a tavern. Nox are discriminated against by humans, seen as dark creatures, and treated with mistrust and oftentimes fear.
+
+#### Combat Style
+
+Nox usually wield greatswords and carry many concealed knives. They wear hide or metal armor. 
+
+### Stats
+
+Nox begin with the following ability points at level 0:
+
+- 20 Vitality
+- 20 Sanity
+- +1 Strength
+- +2 Dexterity
+- +2 Intelligence
+- +1 Willpower
+
+### Special Abilities
+
+##### Drowned
+
+Nox have resistance to ice damage and vulnerability to burning damage.
+
+##### Mental Fortitude
+
+Nox are immune to fear.
+
+##### Darkvision
+
+Nox can see in the dark. However, they are sensitive to light. 
+
+##### Animal Senses
+
+Elves have a keen sense of hearing, gaining a +5 bonus to Perception.
+
+##### Darkness Unchained
+
+When a Nox loses their self-control, a dark, cold cloud obscures the area and the Elf unlocks its dark magic, sacrificing 2 Life points to gain advantage on dark and ice magic.

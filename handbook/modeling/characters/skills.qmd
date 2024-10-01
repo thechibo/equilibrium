@@ -1,0 +1,35 @@
+---
+title: "Skills"
+---
+
+### Skills
+
+Ability points are assigned to a set of different skills that indicate how well the creature performs certain tasks. The dexterity skills are the following:
+
+- Acrobatics: Used when jumping on rooftops or walking on a ledge.
+- Stealth: Used to avoid detection when moving in the shadows or stealing from a merchant.
+
+*For example, a creature with a Dexterity score of +5 can assign a +2 bonus to Acrobatics and a +3 bonus to Stealth checks.*
+
+### Carrying Capacity
+
+A creature's strength also determines its carrying capacity, with a creature being able to carry 10kg times its strength score. This means that creatures with high strength can carry more items and equipment than those with lower strength. 
+
+### Movement Speed
+
+A character's dexterity affects their speed in combat, as they can spend a dexterity point to move an extra 2 meters. This allows characters to move quickly and avoid danger in combat.
+
+
+### Skills
+
+Ability points are assigned to a set of different skills that indicate how well the creature performs certain tasks. The Intelligence skills are the following:
+
+- Perception: Used to detect a creature or item.
+
+
+
+### Skills
+
+Ability points are assigned to a set of different skills that indicate how well the creature performs certain tasks. The Willpower skills are the following:
+
+- Insight: Used to discerns the feelings of a creature.

@@ -1,0 +1,58 @@
+---
+title: "Fey-Touched"
+---
+
+<div class = "sidefigure">
+  ![](../../../figures/fey_touched.png){fig-alt="Fey-Touched" fig-align="right"}
+</div>
+
+#### Origins
+
+In rare and extraordinary circumstances, when humans teeter on the precipice of death, the whimsical deities of the Fey Realm may be moved by their plight and bestow upon them a second chance at life. These fortunate souls, touched by the divine grace of the Fey, undergo a wondrous transformation, merging their essence with that of the animals that roam the Fey Realm. Thus, the fey-touched creatures come into existence, embodying a harmonious blend of human and animal traits.
+
+#### Physical Form
+
+These extraordinary beings bear the marks of their benefactor deity, their very nature infused with the essence of a specific type of animal from the realm of the Fey. Such a metamorphosis gifts them with a unique array of animalistic characteristics, both physical and mystical, that distinguish them from their purely human counterparts. The animal characteristics may be subtle or more extensive, usually covering the fatal wounds suffered prior to the transition. The lifespan of fey-touched creatures is similar to humans, sometimes proloung or shortened based on the animal traits granted.
+
+#### Society
+
+Unlike other races that tend to form distinct societies, the fey-touched creatures chart a different path. Rather than establishing their own communities, they often choose to wander the vast expanses of the world, their hearts yearning for freedom and exploration. Some choose to embrace their prime nature, living in the wild. Others find solace in the bustling human settlements, skillfully blending into the tapestry of society, their animal traits concealed beneath a veil of normalcy. It is amidst the hustle and bustle of humanity that these extraordinary beings find purpose, their dual nature serving as a bridge between the mortal realm and the enchanting realm of the Fey.
+
+#### Combat Style
+
+From the elegant sweep of a sword to the swift release of an arrow, fey-touched humans harness their natural grace and agility to master the art of weaponry. However, it is not just conventional arms that they possess, for their divine transformation also bestows upon them an arsenal of their own claws that shimmer with mystical energy and teeth that gleam like shards of moonlight. In their newfound form, fey-touched beings have the option to embrace their innate animalistic attributes. Many of these extraordinary creatures, choosing to forego conventional armor, rely instead on the resilience of their natural hide. Their flesh becomes a protective barrier, toughened by the mystical energies coursing through their veins. Whether they possess a leonine mane that shields them from harm or a sleek coat that seems impervious to blades, their primal defense allows them to navigate the world unencumbered by the weight of armor.
+
+#### Stats 
+
+Fey-touched begin with the following ability points at level 0: 
+
+-   20 Vitality
+-   10 Sanity
+-   +2 Strength
+-   +1 Dexterity
+-   +2 Intelligence
+-   +2 Willpower
+
+Fey-touched creatures get to reallocate 2 points, justified by the animal aspect they gain.
+
+#### Special Abilities
+
+**Animal Traits:** Fey-touched creatures usually have claws, see in the dark or sniff out their prey far better than a common Human. They can choose two of the following characteristics that their animal form possesses. 
+
+- Claws: You You gain a claw attack The damage is determined in section Equipment, subsection Weapons.
+- Teeth: You gain a bite attack. The damage is determined in section Equipment, subsection Weapons. 
+- Horns: You gain a horn attack. The damage is determined in section Equipment, subsection Weapons.
+- Hooves: You gain a kick attack. The damage is determined in section Equipment, subsection Weapons.
+- Slam: You gain a gore attack. The damage is determined in section Equipment, subsection Weapons.
+- Hide: You gain natural armor +2. 
+- Fast: You gain +2 movement speed. 
+- Climber: You can climb at normal speed. 
+- Swimmer: You can swim at normal speed. 
+- Nocturnal: You gain darkvision. 
+- Hunter: You gain advantage on Perception checks. 
+
+**Animal Form:** Fey-touched can transform into their animal aspect at will. While in animal form, they use the physical abilities (Vitality, Strength, Dexterity) of the beast and the mental abilities of their own (Sanity, Intelligence, Willpower). They cannot speak, but they can understand the languages they normally do. They can communicate simple concepts with their kin. 
+
+**Animal Senses:** Fey-touched creatures have a keen sense of hearing and smell, gaining a +5 bonus to relevant perception checks.
+
+**Fey Vulnerability:** Fey-touched, like most fey creatures, have vulnerability against cold iron.

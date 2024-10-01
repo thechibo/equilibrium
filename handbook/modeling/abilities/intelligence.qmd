@@ -1,0 +1,30 @@
+---
+title: "Intelligence"
+---
+
+### Introduction
+
+Intelligence measures a creature's mental acuity and deduction skills. It is an important skill for characters that want to solve mysteries and get all the answers to their questions.
+
+### Talents
+
+An ability point assigned to strength, dexterity, intelligence, or willpower grants a new combat talent to the creature. Intelligence-based talents are called spells. A creature knows a number of spells equal to its intelligence score. 
+
+The tier of a talent cannot surpass the corresponding ability score of the creature. For example, a creature with a strength score of 4 cannot learn a 5th-tier feat (since it would not be able to use it).
+
+### Professions
+
+Characters can be skilled in many arts and crafts. Intelligence is added to profession points, making characters more effective at tasks that require specialized knowledge or training. Your character has a number of profession points equal to their intelligence score, plus any racial bonuses that they might receive. 
+
+### Losing Intelligence
+
+The essence of a creature's intellectual prowess lies encapsulated in their intelligence score, a beacon guiding their ability to comprehend and process information. Yet, should this score wane below zero, a shroud of cognitive dysfunction enshrouds the unfortunate being, rendering them incapable of navigating the intricacies of thought. 
+
+Indicative Effects:
+
+- 0: The creature struggles to follow trains of thoughts.
+- -1: The creature misuses words.
+- -2: The creature seemingly lacks common sense. 
+- -3: The creature is oblivious to the presence of items or people around them. 
+- -4: The creature appears bereft of thought.
+- -5: The creature is confused (see conditions).

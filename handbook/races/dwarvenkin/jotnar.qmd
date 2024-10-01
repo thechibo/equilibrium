@@ -1,0 +1,50 @@
+---
+title: "Jötnar"
+---
+
+<div class = "sidefigure">
+  ![](../../../figures/jotnar.png){fig-alt="Jotnar" fig-align="right"}
+</div>
+
+#### Origins
+
+In the vast and ancient realm of Terra, one can find a unique and enigmatic race known as Dwarves. These beings are unlike any other inhabitants of this mystical world, for they are not merely born into existence as others are, but rather, they are the very offspring of Terra itself. In stark contrast to the societies of Elves or the familiar human families, Dwarves know not the concept of gender. They exist as a singular, undivided people, sculpted by the hand of their ancestors, unburdened by the intricate complexities of human reproduction.
+
+While they do not require sustenance, Dwarves occasionally indulge in the consumption of food and ale, though their culinary preferences lean towards the unadorned and the robust - roots, wafers, and hearty ales. They retire to rest for a duration of eight hours, much like their human counterparts, yet once slumber claims a Dwarf, they are said to sleep as soundly as the rocks that surround them. Attempting to rouse a sleeping Dwarf is not for the faint of heart, for it often requires a measure of force, and be forewarned, they respond to such disturbances with a vigorous retaliation. 
+
+In the frigid expanses of Terra's northeastern coasts, a unique and formidable breed of Dwarves known as the Jötnar, or "frost" Dwarves, carve out their existence in a world unlike any other in the Dwarven kin. What sets them apart is not only their geography but also the very substance from which they are crafted. Unlike their earth-born brethren, the Jötnar are forged from water itself, a testament to the diversity of Terra's creations. 
+
+#### Physical Form
+
+Standing at a height of 1.2 to 1.4 meters and weighing approximately 70 kilograms, the Jötnar possess a physicality distinct from other Dwarves. Their lifespan is comparatively shorter, spanning around 150 years, yet their existence is marked by an unyielding and warlike spirit.
+
+#### Society
+
+Jötnar societies are organized into small villages, led by chieftains who rise to power through sheer strength and prowess in battle. War is not merely a facet of Jötnar life; it is their way of life. They thrive on plundering coastal villages, raiding merchant ships, and confronting formidable foes such as sea serpents and strongholds. Nestled along the unforgiving northeastern coasts, their settlements are built in places where only the most formidable of creatures can endure. Jötnar have little room for emotions beyond one: honor. The concept of legacy is paramount to them, the tales and songs that will echo through the generations about the mighty warriors who single-handedly bested sea beasts and conquered human castles. They harbor no friendships or alliances with other races, often regarding humans with disdain, finding amusement in their timidity before chasing them to their fates with laughter. Yet, it is an unexpected paradox that Jötnar are known for their extraordinary singing abilities. Songs hold a sacred place in their society, serving as a conduit for preserving their history since they have no written records. After each plundering expedition, Jötnar warriors gather for feasts, consuming cured fish and raising their voices under the starry night sky. 
+
+#### Combat Style
+
+In battle, Jötnar wield an array of weapons, including longswords, axes, picks, pickaxes, tridents, hammers, maces, clubs, and slings. Anything less brutal does not satisfy their ferocious tastes. They shun heavy armor and shields, considering such protections as beneath their fierce and unyielding nature. In the world of the Jötnar, might makes right, and the legacy of ruthless warriors is etched into the icy annals of Terra's history.
+
+#### Stats
+
+Jötnar begin with the following ability points at level 0:
+
+- 30 Vitality
+- 20 Sanity
+- +3 Strength
+- +1 Dexterity
+- +0 Intelligence
+- +1 Willpower
+
+#### Special Abilities
+
+**Subterrans:** Jötnar have resistance to frost damage.
+
+**Barbaric Nature:** Jötnar can stay conscious for one extra round before fainting.
+
+**Children of the Sea:** Jötnar are born with one of the following special abilities:
+
+- Seaform: Some Jötnar are excellent swimmers and can stay underwater without breathing.
+- Ice Spear: Some Jötnar can cover their arms in ice, turning them into lethal spears.
+- Sea Mending: Some Jötnar can coat slashing wounds with ice, gaining resistance. 

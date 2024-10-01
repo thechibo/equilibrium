@@ -1,0 +1,34 @@
+---
+title: "Willpower"
+---
+
+### Introduction
+
+Willpower measures a creature's mental discipline, determination, and self-control. It is important for characters that thrive in teamwork, especially for those that want to lead and encourage their companions.
+
+### Talents
+
+An ability point assigned to strength, dexterity, intelligence, or willpower grants a new combat talent to the creature. Willpower-based talents are called evocations. A creature knows a number of evocations equal to its intelligence score. 
+
+The tier of a talent cannot surpass the corresponding ability score of the creature. For example, a creature with a strength score of 4 cannot learn a 5th-tier feat (since it would not be able to use it).
+
+### Leadership
+
+Social skills and relationships take the form of Leadership points, which can be used to unlock boons, divine interventions that might make the difference in a moment of despair. Your character has a number of leadership points equal to their Willpower score, plus any racial bonuses that they might receive. 
+
+### Defenses
+
+Intelligence determines the talismans a creature can wear. The combined magical defense bonus granted by all talisman components cannot surpass the creature's intelligence score. A creature that surpasses this threshold is considered fascinated (see conditions).
+
+### Losing Willpower
+
+A creature's willpower governs their ability to endure and resist external influences. Alas, should this score descend below zero, a shadowy cloud of weakened resolve descends upon the unfortunate being, leaving them incapable of navigating the complexities of their emotions and inner strength. 
+
+Indicative Effects:
+
+- 0: The creature's decision-making is marred by uncertainty.
+- -1: The creature seems incapable of making choices.
+- -2: The creature becomes highly susceptible to manipulation. 
+- -3: The creature obediently follows the commands of others without question. 
+- -4: The creature forsakes self-preservation.
+- -5: The creature is panicked (see conditions).

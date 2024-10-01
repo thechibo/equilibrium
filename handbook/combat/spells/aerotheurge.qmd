@@ -1,0 +1,17 @@
+---
+title: "Aerotheurge"
+---
+
+### Class Description
+
+An aerotheurge, harnessing the ethereal power of wind and storm, controls the skies with unparalleled mastery. With a wave of their hand, they can summon tempestuous winds to buffet foes or gentle breezes to aid their comrades. These casters of the air element draw strength from the boundless sky, wielding lightning and thunder with precision. Whether lifting allies to safety or striking enemies with bolts of pure energy, an aerotheurge’s connection to the atmosphere around them makes them swift and unpredictable, embodying the freedom and fury of the heavens.
+
+### Talent List
+
+```{r echo=FALSE, results='asis'}
+rootdir <- file.path(getwd(), "../", "../", "../")
+source(file.path(rootdir, "src", "talents.R"))
+path <- file.path(rootdir, "data", "talents.xlsx")
+df <- readxl::read_excel(path, sheet = "Aerotheurge")
+add_talents(df)
+```

@@ -1,0 +1,35 @@
+---
+title: "Vitality"
+---
+
+### Introduction
+
+Vitality measures health and stamina. A creature loses vitality from attacks, starvation, or diseases. As a character's vitality points decrease, they become more vulnerable and may experience negative effects. Maintaining high vitality is crucial for characters in order to increase their chances of success and survival in the world.
+
+### Level up
+
+If the ability point of a level up is invested in vitality, the character gains an extra 10 vitality points. 
+
+Note: Playable characters can only have a max vitality score that is a multiple of 10. Other creatures and beasts do not need to follow this rule.
+
+### Food and Starvation
+
+Most creatures need to eat daily to maintain their health and stamina. Creatures that do not receive the required amount of food and water each day take 5 points of vitality damage. On the other hand, a full day's meal can restore 20 points of vitality, up to the total maximum.
+
+### Losing Consciousness
+
+If a creature’s vitality reaches 0, it immediately loses consciousness and becomes incapacitated (See Conditions). To regain consciousness, the creature needs to somehow regain at least 1 vitality point. Healing can be achieved in the following ways:
+
+-	The creature rests for 8 hours to regain 1d10 vitality points.
+-	The creature is nursed back to health by first aid or by a healing potion (see the physician profession).
+-	The creature receives a blessing. This can only take effect once per day.
+
+### Death
+
+If an incapacitated creature that has 0 vitality points receives another hit, it is considered a death blow, or "coup de grace".
+
+### Temporary Vitality Points
+
+Temporary vitality points can provide a shield for a limited period of time. The points are added to the current total and are the first ones to be lost if the creature receives damage. When the effect that granted the points ends, any excess temporary points that have not been used to absorb damage disappear, and the creature’s vitality returns to its actual total. Temporary vitality points do not stack.
+
+*Losing vitality is an easy task; all you need to do is tell your dwarven friends their ale stinks.*

@@ -1,0 +1,48 @@
+---
+title: "Percians"
+---
+
+<div class = "sidefigure">
+  ![](../../../figures/percians.png){fig-alt="Percian" fig-align="right"}
+</div>
+
+#### Origins
+
+In the vast and ancient realm of Terra, one can find a unique and enigmatic race known as Dwarves. These beings are unlike any other inhabitants of this mystical world, for they are not merely born into existence as others are, but rather, they are the very offspring of Terra itself. In stark contrast to the societies of Elves or the familiar human families, Dwarves know not the concept of gender. They exist as a singular, undivided people, sculpted by the hand of their ancestors, unburdened by the intricate complexities of human reproduction.
+
+While they do not require sustenance, Dwarves occasionally indulge in the consumption of food and ale, though their culinary preferences lean towards the unadorned and the robust - roots, wafers, and hearty ales. They retire to rest for a duration of eight hours, much like their human counterparts, yet once slumber claims a Dwarf, they are said to sleep as soundly as the rocks that surround them. Attempting to rouse a sleeping Dwarf is not for the faint of heart, for it often requires a measure of force, and be forewarned, they respond to such disturbances with a vigorous retaliation. 
+
+Amidst the scorching sands of the vast desert of Percia, a remarkable clan of Dwarves known as the Percians, or "desert" Dwarves, have established their unique existence. These Dwarves stand apart from their brethren not only in their arid homeland but also in their towering stature. 
+
+#### Physical Form
+
+Towering at heights ranging from 1.2 to 1.5 meters and possessing a robust frame weighing approximately 140 kilograms, they are indeed the tallest among the Dwarven kin. 
+
+#### Society
+
+A harsh and unforgiving environment has shaped the lives of the Percians, compelling most to pursue trades as smiths or merchants. Some among them serve the local authorities as guards, for in the treacherous expanse of the desert, safety is a rare commodity. The governance of sand towns falls under the purview of the governor, who is deemed by the law to be the ultimate authority. Yet, coin holds its own dominion in the heart of the desert, and merchant unions wield the true power. A relentless race for dominance unfurls among merchants and caravan leaders, where military attacks upon rivals are not uncommon. For the right price, a Percian is willing to undertake almost any endeavor, even if it means treachery. 
+
+The Percians revere fire as a deity, and those who can withstand its searing embrace earn the utmost respect within their society. This affinity for the element may explain their fondness for the Exsul and their graceful sword dancing. Percians have little regard for nobility and are primarily driven by a thirst for riches. As such, they often struggle to extend the proper respect toward Exsul and Human nobles, who view the Percians as uncultured brutes. However, this stereotype is not entirely accurate. Alongside the Gnomes, the Percians harbor a deep appreciation for written history, and books hold a special place in their bustling markets. 
+
+#### Combat Style
+
+In matters of combat, the Percians favor ranged warfare, displaying particular proficiency with javelins, nets, and daggers. For close-quarters battles, they favor swords, chains, and flails. Versatility characterizes their approach to armor, as they are known to don various types to suit the demands of their diverse endeavors. Shields often accompany them into battle, serving as a steadfast guardian against the myriad threats that dwell within their scorching desert domain. The Percians are a testament to the adaptability and resilience of the Dwarven race, thriving in an environment where only they could endure, and forging a culture that blends commerce, martial prowess, and a fiery reverence for their desert homeland. 
+
+#### Stats
+
+Percians begin with the following ability points at level 0:
+
+- 20 Vitality
+- 10 Sanity
+- +2 Strength
+- +1 Dexterity
+- +2 Intelligence
+- +2 Willpower
+
+#### Special Abilities
+
+**Desert Folk:** Percians have resistance to burning damage.
+
+**Immovable:** Percians cannot be tripped or pushed by creatures or objects less than twice their size. They are not encumbered.
+
+**Merchants:** Percians practice many different arts. They gain +2 Profession points. 

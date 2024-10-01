@@ -1,0 +1,110 @@
+---
+title: "Professions"
+---
+
+Characters can be skilled in many arts and crafts. As they traverse the lands they become more effective at tasks that require specialized knowledge or training.
+
+Profession points are equal to the character's intelligence score, plus any racial bonuses that they might receive. Every profession comes with a default kit, including the essential tools for the job. 
+
+Each profession has 10 tiers. By advancing in the tier ladder, characters learn to craft more intricate items, or gain knowledge that is scarce within the realms.
+
+<div>
+  ![](../../../figures/professions.png){fig-alt="professions" width="80%" fig-align="center"}
+</div>
+
+#### Blacksmith
+
+Blacksmiths can work with metal to craft weapons, armor, and all kinds of tools. Their kit contains a small anvil, an iron pot, a hammer, pliers, straps, nails, a whetstone, gloves as well as coal and flint to start a fire.
+
+Blacksmiths can create the items found in the arms equipment list.
+
+<div class = "quote">
+You're not ready for the forge, lad. 
+<div class = "sign">Amethystos of the Coal, Dwarven Blacksmith</div>
+</div>
+
+#### Engineer
+
+Engineers can manufacture complex devices. Their kit contains screwdrivers and screws, pliers, gears and pinions, thin tubes, grease, gloves as well as a monocular to enhance vision.
+
+Engineers can create the items found in the machinery equipment list.
+
+<div class = "quote">
+Leave your mind-numbing tasks to our robotic hands. 
+<div class = "sign">Pendulum Industries, Mechania</div>
+</div>
+
+#### Tailor
+
+Tailors can work with cloth, leather, and fur to produce clothing and all kinds of adventuring gear. Their kit contains needles in all sizes, colorful threads, patches, strings, scissors, a thimble as well as glasses to enhance vision. A tailor can gain expertise as a:
+
+Tailors can create the items found in the clothing equipment list.
+
+<div class = "quote">
+You want to enter the ballroom wearing THAT? No, no, no, sit down.
+<div class = "sign">Vonerel, for Human and Elf</div>
+</div>
+
+#### Cook
+
+Cooks can prepare nutritious meals for them and their companions. Their kit contains a large iron pot, a frying pan, a cleaver, a large fork, a ladle, exotic spices, an apron as well as a flint to start a fire. 
+
+Cooks can create the items found in the food equipment list.
+
+<div class = "quote">
+To cook is to create, to nourish not just the body but the soul as well.
+<div class = "sign">Diego Martin, Cook of the Crooked Son pirates</div>
+</div>
+
+#### Physician
+
+Physicians can treat wounds and enhance recovery. Their kit contains bandages, stitches, salves, splints, a bunch of labeled vials, a flask of pure alcohol as well as a plague mask to protect themselves from diseases.
+
+Physicians can create the items found in the medical equipment list.
+
+<div class = "quote">
+The exact science of herbology is one that has been studied excessively by most races, but nowhere as fervently as by Sylvan. The science of plants is, after all, in our very nature.
+<div class = "sign">Emilia Hawthorne, Master Physician of Crystal Spires</div>
+</div>
+
+#### Explorer
+
+Explorers survive in the wilderness. They can track down animals, set traps or survive in the wild. An explorer’s kit contains wire, rope, glue, iron spikes, a shovel, a pick, a sharp knife, a whistle, a compass as well as flint to start a fire. 
+
+<div class = "quote">
+Watch out for the wire trap! It is not meant for you.
+<div class = "sign">Diego Martin, Cook of the Crooked Son pirates</div>
+</div>
+
+#### Entertainer
+
+<div class = "quote">
+Let me sing you a tune that I just came up with!
+<div class = "sign">Your new dad, yours truly</div>
+</div>
+
+#### Priest
+
+A priest’s kit contains incense, a holy symbol, a book of prayers, chimes, a chalice, a bottle of wine, garlic, matches, a chandelier, and candles. A priest can gain expertise as a:
+
+<div class = "quote">
+Begone, foul creature! Where’s the garlic?
+<div class = "sign">Late Father Lorenzo, Priest of Jophiel</div>
+</div>
+
+#### Historian
+
+Historians are scholars that dedicate their lives to acquiring knowledge and unraveling the secrets of the world. Their kit contains a signet ring of their school, sealing wax, a leather scroll case with scrolls and parchment inside, an ink pen and bottle as well as many books on their subject.
+
+<div class = "quote">
+C-could this be a map of the catacombs?
+<div class = "sign">???</div>
+</div>
+
+#### Arcanist
+
+
+<div class = "quote">
+This rune… this is blood magic! Oh wait, I’m looking at it upside down.
+<div class = "sign">???</div>
+</div>

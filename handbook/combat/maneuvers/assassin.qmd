@@ -1,0 +1,25 @@
+---
+title: "Assassin"
+---
+
+<div class = "sidefigure">
+  ![](../../../figures/assassin.png){fig-alt="assassin sigil" fig-align="right"}
+</div>
+
+### Class Description
+
+Assassins specialize in the art of stealth, subterfuge, and precision strikes. These highly trained individuals are masters of infiltration and deception, using their skills to eliminate targets with ruthless efficiency.
+
+Assassins are often solitary figures, operating in the shadows and relying on their keen senses, agility, and cunning. They excel in the art of stealth, making them almost invisible as they navigate through the darkest corners of the world. Their weapon of choice is often a concealed blade, poison-tipped darts, or a deadly array of throwing weapons.
+
+What sets Assassins apart from common thugs is their ability to strike swiftly and decisively, often incapacitating or eliminating their targets before anyone even realizes they're under attack. They are skilled in exploiting weaknesses, whether it be exploiting a guard's blind spot, infiltrating secure locations, or manipulating their enemies with deception and disguise.
+
+### Talent List
+
+```{r echo=FALSE, results='asis'}
+rootdir <- file.path(getwd(), "../", "../", "../")
+source(file.path(rootdir, "src", "talents.R"))
+path <- file.path(rootdir, "data", "talents.xlsx")
+df <- readxl::read_excel(path, sheet = "Assassin")
+add_talents(df)
+```

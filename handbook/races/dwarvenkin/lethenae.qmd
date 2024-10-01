@@ -1,0 +1,66 @@
+---
+title: "Lethenae"
+---
+
+<div class = "sidefigure">
+  ![](../../../figures/lethenae.png){fig-alt="Lethenae" fig-align="right"}
+</div>
+
+#### Origins
+
+In the vast and ancient realm of Terra, one can find a unique and enigmatic race known as Dwarves. These beings are unlike any other inhabitants of this mystical world, for they are not merely born into existence as others are, but rather, they are the very offspring of Terra itself. In stark contrast to the societies of Elves or the familiar human families, Dwarves know not the concept of gender. They exist as a singular, undivided people, sculpted by the hand of their ancestors, unburdened by the intricate complexities of human reproduction.
+
+While they do not require sustenance, Dwarves occasionally indulge in the consumption of food and ale, though their culinary preferences lean towards the unadorned and the robust - roots, wafers, and hearty ales. They retire to rest for a duration of eight hours, much like their human counterparts, yet once slumber claims a Dwarf, they are said to sleep as soundly as the rocks that surround them. Attempting to rouse a sleeping Dwarf is not for the faint of heart, for it often requires a measure of force, and be forewarned, they respond to such disturbances with a vigorous retaliation. 
+
+Deep within the subterranean heart of the Paterna mountains, the Lethenie or Lethenae, also known as the "mine" Dwarves, hold sway as the eldest and most resilient of their kin. Their existence unfolds beneath the surface of Terra, in a vast labyrinth of tunnels and dungeons that stretch like a complex web through the very bones of the earth itself.
+
+#### Physical Form
+
+Physically, Lethenie stand as medium-sized creatures, their statures ranging from 1 to 1.3 meters, and their robust frames weighing more than 120 kilograms. Their longevity varies greatly depending on their caste, with lifespans ranging from 200 to 500 years. 
+
+#### Society
+
+Lethenie society is an intricate tapestry of castes, each defined by the precious metal from which its members were sculpted and the metals they tirelessly unearth from the depths. These hierarchical divisions determine not only one's social status but also their access to resources and power. It is a world where the very metal that forms their bodies and tools also molds their destinies. 
+
+These stout beings bear the weight of their ages with a natural grumpiness and a deep-seated xenophobia. Suspicion and distrust greet anyone not of their kind, whether hailing from a distant realm or even from within their own ranks. Only one exception may soften their stance - human merchants bearing the jingle of coinage in their pockets. The allure of profit can occasionally pierce the armor of their prejudice. 
+
+Yet, it is not only the intricacies of their society that define Lethenie. Their collective soul burns with an intense and unrelenting hatred for the reptants and, above all, the menacing dragons. These ancient, winged creatures are viewed as abominations, their very existence an affront to the sanctity of Terra. 
+
+#### Combat Style
+
+When it comes to their tools and weapons, Lethenie adhere to a strict creed. Axes, picks, pickaxes, hammers, maces, and crossbows are the instruments of their trade, and anything outside this arsenal is regarded as peculiar and heretical. They drape themselves in all forms of armor, the heavier, the better, for their underground realms are as unforgiving as their hearts. These resolute mine Dwarves stand as a testament to the enduring strength of Terra and its indomitable children, unyielding in their quest for precious ores and undeterred by the darkness that surrounds them. 
+
+#### Stats
+
+Lethenae begin with the following ability points at level 0: 
+
+- 30 Vitality
+- 20 Sanity
+- +2 Strength
+- +0 Dexterity
+- +2 Intelligence
+- +1 Willpower
+
+#### Special Abilities
+
+**Subterrans:** Lethenie have resistance against the earth element and are immune to poison. 
+
+**Tremorsense:** Even though Lethenie have poor eyesight, they can sense the vibrations of the ground in mid-range. They lose this ability in muddy grounds and swamps, or if they get wet.
+
+**Castes:** The mineral substance of a Dwarf determines their special bond with Μother Terra:
+
+- Diamond: Resistance to piercing.
+- Sapphire: Forge magical water weapons.
+- Ruby: Forge magical fire weapons.
+- Amber: Forge magical electric weapons.
+- Emerald: Forge magical earth weapons.
+- Titanium: Resistance to bludgeoning.
+- Gold: Goldsense in close range.
+- Silver: Immunity to the charmed condition.
+- Mercury: Toxic on contact, except to iron.
+- Obsidian: Bleeding shatters upon hit. 
+- Copper: Immunity to all diseases.
+- Lead: Poisonous shatters upon hit.
+- Iron: Resistance to slashing.
+- Sulfur: Emit a scent that repels beasts.
+- Coal: Emit an ash cloud for 1 minute. 

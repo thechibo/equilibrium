@@ -1,0 +1,41 @@
+---
+title: "Character Creation"
+---
+
+All fantasy creatures deserve a chance at life and all living creatures deserve a chance at fantasy. So, grab a pen and paper because the journey is about to begin. To create your character, follow these steps: 
+
+### Pick a race
+
+There are many races to choose from. Each one comes with initial ability points and several extra features that illustrate strengths and weaknesses.
+
+### Choose a level
+
+Characters start from level 0 and climb up the ladder toward divinity. For each level, characters gain one additional ability point to an ability of their choice.
+
+### Distribute your ability points
+
+Each character has six ability scores that represent their most basic attributes, their dominant aspects, and the way they interact with their environment. The ability points are determined by the race and the level.
+
+### Pick your talents
+
+In combat, you can utilize your abilities to perform extraordinary feats (Strength-based talents), maneuvers (Dexterity-based talents), spells (Intelligence-based talents), or evocations (Willpower-based talents). For each ability point, your character learns 1 talent of the associated ability.
+
+### Pick your professions
+
+Characters can be skilled in many arts and crafts. As they traverse the lands they become more effective at tasks that require specialized knowledge or training. Profession points are equal to the character's intelligence score, plus any racial bonuses that they might receive.
+
+### Leadership
+
+Social skills and relationships take the form of Leadership points, which can be used to unlock boons, divine interventions that might make the difference in a moment of despair. Your character has a number of leadership points equal to their Willpower score, plus any racial bonuses that they might receive. 
+
+### Choose equipment
+
+Now that your character is ready, you need to dress them up! Choose weapons, armor, gems, or herbs that they might carry with them. Each character receives an initial kit associated with their professions.
+
+### Backstory time
+
+Along the process of creating your character, you surely came up with a few ideas about their past, their present, and their future. Think of the town where your character was born and raised, the friends they made in their journeys, or the deity they pray to.
+
+### Level up
+
+Characters start from commoners and street folk and may advance up to living legends that bards sing about. At the end of every adventure, characters find themselves more experienced. This experience is translated into ability points and skills according to their deeds. The level-up is fairly straightforward: Each time characters level up, they gain 1 ability point to an ability of their choice. They also learn 1 talent of the corresponding ability. If this point is put on Intelligence or Willpower, the profession or leadership points increase, respectively.

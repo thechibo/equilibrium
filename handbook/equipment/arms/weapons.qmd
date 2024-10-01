@@ -1,0 +1,27 @@
+---
+title: "Weapons"
+---
+
+### Weapon List
+
+From the simplicity of a sturdy club to the elegance of a finely crafted dagger, the world is teeming with instruments of combat. Each weapon is uniquely suited to deliver damage in distinct ways, categorized into three primary types: bludgeoning for powerful impact, piercing for precise strikes, and slashing for cutting through adversaries. As characters take part in dangerous battles and quests, the choice of weaponry becomes not only a matter of personal preference but a strategic decision that may tip the scales in their favor.
+
+```{r echo=FALSE, message=FALSE}
+# Dependencies
+rootdir <- file.path(getwd(), "../", "../", "../")
+source(file.path(rootdir, "src", "talents.R"))
+
+# Read the data
+df_weapons <- readxl::read_excel(file.path(rootdir, "data", "equipment.xlsx"), sheet = "weapons")
+df_weapons[1] <- ""
+
+# Create table
+knitr::kable(df_weapons) %>%
+  kableExtra::column_spec(1, width = "8%",
+              image = file.path("png", paste0(df_weapons$Name, ".png")))
+```
+
+### Weapon Coating
+
+As the intrepid adventurer delves into the craft of weaponry, it becomes apparent that the choice of materials is not limited to the form of the weapon alone. Blades, hafts, and striking surfaces can be enhanced and customized through the application of different coatings. These coatings serve not only to protect the weapon from wear and tear but also to imbue it with unique properties. The careful consideration of material coatings adds a layer of tactical depth to the art of combat, providing adventurers with a means to tailor their weapons to the specific challenges that lie in the journeys ahead.
+

@@ -1,0 +1,25 @@
+---
+title: "Soldier"
+---
+
+<div class = "sidefigure">
+  ![](../../../figures/soldier.png){fig-alt="soldier sigil" fig-align="right"}
+</div>
+
+### Class Description
+
+Soldiers are the embodiment of discipline, training, and tactical prowess. These warriors are the backbone of armies, known for their unwavering dedication to the art of combat and their ability to adapt to a variety of situations. Soldiers undergo rigorous training in various weapons and combat techniques, making them versatile and well-prepared for any challenge that may arise on the battlefield. They excel in teamwork, often forming the core of military units, and are adept at both offense and defense.
+
+Soldiers possess a deep understanding of strategy, allowing them to anticipate their enemies' moves and make quick, calculated decisions. They are skilled in using a wide array of weapons, from swords and spears to bows and firearms, making them adaptable in different combat scenarios. 
+
+In times of war, Soldiers are the protectors of their allies and the embodiment of order amidst the chaos of conflict. They are respected for their dedication to their craft and their ability to execute precise, devastating maneuvers with unerring accuracy. Whether defending their homeland or carrying out a strategic offensive, Soldiers are the bedrock of any organized military force. 
+
+### Talent List
+
+```{r echo=FALSE, results='asis'}
+rootdir <- file.path(getwd(), "../", "../", "../")
+source(file.path(rootdir, "src", "talents.R"))
+path <- file.path(rootdir, "data", "talents.xlsx")
+df <- readxl::read_excel(path, sheet = "Soldier")
+add_talents(df)
+```

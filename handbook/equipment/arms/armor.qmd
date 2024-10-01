@@ -1,0 +1,18 @@
+---
+title: "Armor"
+---
+
+```{r echo=FALSE, message=FALSE}
+# Dependencies
+rootdir <- file.path(getwd(), "../", "../", "../")
+source(file.path(rootdir, "src", "talents.R"))
+
+# Read the data
+df_weapons <- readxl::read_excel(file.path(rootdir, "data", "equipment.xlsx"), sheet = "weapons")
+df_weapons[1] <- ""
+
+# Create table
+knitr::kable(df_weapons) %>%
+  kableExtra::column_spec(1, width = "8%",
+              image = file.path("png", paste0(df_weapons$Name, ".png")))
+```

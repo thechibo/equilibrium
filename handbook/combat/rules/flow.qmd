@@ -1,0 +1,21 @@
+---
+title: "Combat Flow"
+---
+
+### Combat Round
+Combat revolves around two or more creatures standing off using a turn-based system. Each round represents 6 seconds in the game world; there are 10 rounds in a minute of combat. A round normally allows each character involved in a combat to act. Each round in its turn, a creature uses its abilities as a pool of energy in order to perform a number of skills. The combat flow is summarized in the following ordered list:
+
+0.	Surprise round in case combat begins unexpectedly.
+1.	All combatants roll initiative.
+2.	Combatants act in initiative order.
+3.	When everyone has had a turn, the next round begins with the combatant with the highest initiative, until combat ends.
+
+### Surprise Round
+
+Combat may spark unexpectedly. In that case, the single action that triggers combat initiative (e.g. a backstab or an explosion) is resolved before the combat begins. For example, a group of rogues may infiltrate the royal guard disguised as knights. Responding to their leader’s signal, all rogues stab the royal member they are supposed to protect. These single attacks compose the surprise round. Right after damage is dealt, all combatants roll initiative, and the combat begins.
+
+### Initiative
+
+Initiative determines the order in which players and creatures act during a combat encounter. At the beginning of each battle, every participant, be it player characters or foes, must roll 1d10 and add their Dexterity to determine their place in the initiative sequence. The higher the roll, the earlier the participant gets to act. Once the initiative order is established, actions and abilities are resolved in sequence, starting from the highest roll and descending to the lowest. This ensures that each player has a chance to strategically plan their moves and react to the ever-changing battlefield dynamics. Quick-thinking and tactical decision-making become vital as the initiative roll sets the tempo for the entire combat encounter.
+
+A creature can choose to postpone its action, lowering its score in the initiative order. For the remainder of the battle, this is its new score; it cannot go back to the initial roll.

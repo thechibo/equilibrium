@@ -1,0 +1,58 @@
+---
+title: "Sylvan"
+---
+
+### Information
+
+#### Origins
+
+Elves are descendants of Fey. Being born and raised inside trees, those creatures can hear the voice of nature. Elves may seem fragile and naive, as human tales usually proclaim, but they are far from helpless. They are soldiers created to maintain the balance of the realms. They are protectors of nature, hunters of those that dare take more than their share in this world. Elves are primarily territorial. They are bound to their origin, and urban life does not suit them. 
+
+#### Physical Form
+
+Born out of giant oaks, elves are a part of nature. Their skin has a brown tone, resembling the texture of wood. Elves stand at about 1.7-2m and weigh no more than 50kg. They have a lifespan of 300 years.
+
+#### Society
+
+Sylvan form their societies in large forests: They can communicate with plants and use their tuning whistle ability to shape trees into houses and branches into weapons. 
+
+Brought into this world to halt the Draconic invasion, Elves harbor an intense hate towards Reptants. Fire magic is forbidden for Sylvan and fire bearers are not welcome in their forests. Sylvan worship the trees, work alongside animals, and serve the notion of Equilibrium.
+
+An Elf must undertake rituals of extreme pressure to change their nature and sever their roots. Only one cause is worthy of such sacrifice, protecting the notion of Equilibrium, constantly threatened by the greediest creatures ever created: Dragons. 
+
+#### Combat Style
+
+Sylvan are experts in archery. Their favorite weapon is the longbow. In close quarters they prefer to wield staves or spears. Sylvan wear light, leather, or wooden armor, although for most of them, it feels like an unnatural burden. 
+
+Stats 
+
+Sylvan begin with the following ability points at level 0:
+
+- 10 Vitality
+- 20 Sanity
+- +1 Strength
+- +3 Dexterity
+- +2 Intelligence
+- +1 Willpower
+
+### Special Abilities 
+
+##### Forest Fey
+
+Sylvan have increased healing abilities while they remain in the forest, but they cannot replenish their vitality outside of it. 
+
+##### Tuning Whistle
+
+Sylvan can whistle to communicate with the trees and slowly reshape their branches. This ability allows them to pass through difficult forest terrain unhindered, create stair-like structures and so much more.
+
+##### Animal Friend
+
+Forest mammals will not hurt a sylvan elf, unless as a result of starvation. 
+
+##### Animal Senses
+
+Sylvan have a keen sense of hearing, gaining a +5 bonus to relevant perception checks.
+
+##### Fey Resistances and Vulnerabilities
+
+Sylvan have resistance to spirit damage and vulnerability to burning damage. Like most fey creatures, sylvan have vulnerability to cold iron. 

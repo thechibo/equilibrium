@@ -1,0 +1,44 @@
+---
+title: "Dragonborn"
+---
+
+<div class = "sidefigure">
+  ![](../../../figures/dragonborn.png){fig-alt="Dragonborn" fig-align="right"}
+</div>
+
+#### Origins
+
+Craving for power is one thing, but serving a dragon is an entirely different matter. The dragonborn, bound to their deities with unwavering loyalty, are formidable beings who carry out their masters' will without question. Becoming a dragonborn is no easy task; one has to prove themselves in front of their new scale-bearing deity. Only after countless painful challenges can the follower attend the so-called "Ritual of Greed".
+
+#### Physical Form
+
+Towering in size, they command attention with their imposing stature, evoking a sense of awe and fear among those who stand before them. 
+
+#### Society
+
+Preferring to conquer rather than build, Dragonborn ransack and occupy human cities, asserting their dominance over other races. War is where the Dragonborn truly thrive, their instincts attuned to conflict. They view all other races as potential slaves, mere pawns in their relentless pursuit of power. Their insatiable greed for dominance is matched only by their unquenchable thirst for gold. The gleam of riches acts as a magnetic force, driving them to seek wealth with relentless fervor. 
+
+The Dragonborn, driven by their insatiable hunger for power and wealth, leave behind a trail of shattered civilizations in their wake. They embody arrogance, ruthlessness, and an unquenchable thirst for supremacy. The world trembles before their might, and the echoes of their conquests reverberate through the annals of history, serving as a chilling reminder that the Dragonborn are forces to be reckoned with. 
+
+#### Combat Style
+
+In battle, Dragonborn wield heavy weapons that leave a trail of blood and excruciating pain. Saw blades, morningstars, and whips become instruments of devastation in their hands. However, it is their own claws and fangs that truly showcase their natural weaponry. With these fearsome appendages, they can rend flesh and shatter armor with ease, leaving their enemies in agony. To bolster their already formidable defenses, Dragonborn reinforce their scales with metallic plates. These additional layers of protection, shimmering with the hues of precious metals, serve as a testament to their unyielding will and unwavering desire for conquest. Adorned in such armor, they project an image of invincibility, daring only the most formidable opponents to challenge their dominion. 
+
+#### Stats
+
+Dragonborn begin with the following ability points at level 0:
+
+- 30 Vitality
+- 10 Sanity 
+- +3 Strength
+- +1 Dexterity
+- +1 Intelligence
+- +1 Willpower
+
+#### Special Abilities 
+
+**Fangs:** Dragonborn have one bite and two claw attacks, similar to those of a large-sized animal.
+
+**Dragon Blood:** Dragonborn are linked to a dragon via a blood pact. They gain resistance to the dragon's element.
+
+**Natural Armor:** Dragonborn have scales that grant a +3 natural armor bonus.

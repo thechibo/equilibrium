@@ -1,0 +1,52 @@
+---
+title: "Humans"
+---
+
+<div class = "sidefigure">
+  ![](../../../figures/human.png){fig-alt="Human" fig-align="right"}
+</div>
+
+#### Origins
+
+
+
+#### Physical Form
+
+In physical form, Humans stand at a moderate stature, their frames reaching heights of 1.6 to 1.8 meters, while their weight ranges between 60 and 100 kilograms. Within the finite span of their existence, their average lifespan stretches to around 70 years, a reminder of the fleeting nature of their mortal coil. It is this ephemeral existence that shapes the essence of humanity.
+
+#### Society
+
+Humans weave their intricate lives within the tapestry of existence. They dwell in bustling cities, tranquil villages, and perhaps even find solace amidst the whispers of the untamed woods. Among the diverse races that inhabit this world, Humans stand as one of the most organized, guided by a web of strict laws and enriched by an array of traditions that have been passed down through generations. 
+
+Unyielding, tenacious, and adaptable in the face of life's ever-changing currents, Humans embrace the challenges that come their way, battling against adversity with a fire burning within. It is this very spirit that can manifest in myriad forms - both benevolent and malevolent. The duality of their nature shines through as their unyielding will can be expressed in acts of great kindness and compassion, or alas, wielded as a force of darkness and malevolence. They traverse the delicate tightrope between light and shadow, seeking meaning and purpose amidst the chaos.
+
+While some among them possess wisdom and enlightenment, many others remain untouched by the pursuit of deeper understanding. As a general rule, the uninitiated masses, and even some of those deemed educated, tend to harbor an aversion towards anything that resides in the realms of darkness or the unknown. Such is the fragile state of their consciousness, for fear often lingers where knowledge is lacking.
+
+#### Combat Style
+
+The indomitable spirit of the Humans extends to the battlefield, where they display their prowess in the art of combat. Armed with an insatiable thirst for victory, they adapt to the ever-changing tides of warfare, wielding any weapon that falls within their grasp. From the mighty swords that gleam in the sunlight to the swift arrows that pierce the air, Humans embrace a vast array of armaments, harnessing their power to claim victory in the face of adversity. Humans They adorn themselves with an assortment of armor, fashioned from sturdy materials such as steel, leather, and even magical alloys.
+
+Yet, it is not solely the physicality of warfare that defines the Humans' battle prowess. They possess a unique ability to adapt their tactics to suit any situation. Their minds are honed to strategize, to outwit their opponents, and to exploit any advantage that comes their way. Whether through intricate formations on the battlefield or through clever ruses and deceptions, Humans have the uncanny knack for turning the tides of war in their favor.
+
+It is within the crucible of combat that the true essence of the Human spirit is revealed. They fight not just for survival, but for ideals, for honor, and for the protection of those they hold dear. The clash of steel, the thunderous roar of battle cries, and the shimmering of shields become the backdrop for their unyielding determination. Through the ebb and flow of battle, they etch their names in the annals of history, leaving behind a legacy of valor and resilience for generations to come.
+
+#### Stats
+
+Humans begin with the following ability points at level 0:
+
+-   20 Vitality
+-   10 Sanity
+-   +2 Strength
+-   +1 Dexterity
+-   +2 Intelligence
+-   +2 Willpower
+
+#### Special Abilities
+
+**Jack of All Trades:** Humans get an additional +4 Profession points to allocate in any profession they want.
+
+**Born Leader:** Humans get to learn 2 extra evocations.
+
+**Persistence:** Once per day, a human can harness this innate tenacity and transfer their Willpower points to any other attribute or stat of their choosing for one turn.
+
+**Quick Thinking:** Humans have a natural propensity for quick thinking and decisive actions, and are granted advantage to their initiative rolls.

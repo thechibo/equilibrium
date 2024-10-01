@@ -1,0 +1,17 @@
+---
+title: "Hydrosophist"
+---
+
+### Class Description
+
+A hydrosophist, wielder of water's life-giving and destructive essence, commands the fluidity and power of this elemental force. They can heal wounds with a touch of purified water or summon torrents to sweep enemies away. Masters of the ocean's depths and the river's flow, hydrosophists manipulate water in all its forms—liquid, ice, and vapor—demonstrating the versatility and adaptability of their element. Whether nurturing life or unleashing devastating floods, their bond with water makes them indispensable allies and formidable adversaries, embodying the ever-changing and nurturing spirit of the seas.
+
+### Talent List
+
+```{r echo=FALSE, results='asis'}
+rootdir <- file.path(getwd(), "../", "../", "../")
+source(file.path(rootdir, "src", "talents.R"))
+path <- file.path(rootdir, "data", "talents.xlsx")
+df <- readxl::read_excel(path, sheet = "Hydrosophist")
+add_talents(df)
+```

@@ -1,0 +1,39 @@
+---
+title: "Conditions"
+---
+
+Conditions alter a creature’s capabilities in a variety of ways. A condition lasts either until it is countered or for a duration specified by the effect that imposed the condition.
+
+#### Protective Conditions
+
+- Blessed: The creature regains 1d10 Vitality and has advantage on healing rolls. 
+- Covered: Attacks against the creature have disadvantage.
+- Hasted: The creature moves at double speed.
+- Hidden: The creature’s attacks have advantage.
+- Invisible: The creature is hidden. It also has advantage on stealth checks.
+
+#### Damaging Conditions
+
+- Bleeding: The creature takes the listed amount of bleeding damage at the beginning of its turn, for the listed amount of turns. The condition can be stopped prematurely by cauterization upon receiving at least 2 points of fire damage, or by appropriate medical treatment.
+- Burning: The creature takes the listed amount of burning damage at the beginning of its turn. The condition can be stopped upon extinguishing the flames with a sufficient amount of water, or by appropriate medical treatment.
+- Poisoned: The creature takes the listed amount of ability damage at the beginning of its turn, for the listed amount of turns. The condition can be stopped prematurely by appropriate medical treatment.
+
+#### Physical Conditions
+
+- Blinded: The creature is vulnerable and fails perception checks that require sight.
+- Deafened: The creature is vulnerable and fails perception checks that require hearing.
+- Exhausted: The creature is vulnerable and slowed.
+- Incapacitated: The creature can’t take any actions. Attacks against it deal maximum damage.
+- Prone: The creature is vulnerable and must spend 5 movement points to stand up.
+- Restrained: The creature is vulnerable, its speed becomes 0, and it can’t benefit from any bonus to its speed.
+- Slowed: The creature moves at half speed.
+- Vulnerable: The creature’s attacks have disadvantage. Attacks against it have advantage.
+
+#### Mental Conditions
+
+- Confused: The abilities used and their corresponding targets are chosen at random.
+- Enraged: The creature has to spend as many of its ability points as possible to target its antagonist with hostile actions, deactivating protective talents towards allies -but not oneself- if necessary.
+- Charmed: The creature has to spend as many of its ability points as possible to protect its idol figure.
+- Frightened: The creature cannot approach the source of its fear.
+- Sorrowful: The creature cannot utilize ability points for self-protection. All protective spells applied to themselves have to be deactivated. If the creature carries a shield, it must drop it.
+- Panicked: The creature must drop anything it holds and flee from the source of its fear to the best of its abilities.

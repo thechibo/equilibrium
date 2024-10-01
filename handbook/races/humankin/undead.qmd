@@ -1,0 +1,52 @@
+---
+title: "Undead"
+---
+
+<div class = "sidefigure">
+  ![](../../../figures/undead.png){fig-alt="Undead" fig-align="right"}
+</div>
+
+#### Origins
+
+Ιn the realm where the boundary between life and death blurs, there exists a chilling phenomenon---a group of humans who have defied mortality itself. By striking dark bargains, they have exchanged their souls for eternal existence, transcending the confines of the living and transforming into the undead. These once-human entities, now reduced to mere skeletal figures, wander the world as embodiments of eerie tales.
+
+The undead, bound to an existence of perpetual darkness, stand as a testament to the consequences of seeking immortality at any cost. They serve as reminders of the precarious line between life and death, their haunting presence a reflection of the choices made in desperation. Their eternal journey carries them through abandoned domains, forever separated from the living.
+
+#### Physical Form
+
+The undead, resembling living skeletons, bear a haunting appearance that strikes fear into the hearts of those who catch a glimpse. Though their size remains human, their bodies become emaciated, their forms reduced to a skeletal state. These remnants of their former selves stand as spectral reminders of the eternal torment they have chosen. 
+
+#### Society
+
+Far from the prying eyes of the living, the undead navigate a path veiled in shadows, their terrifying nature ensuring their exclusion from human societies. They are drawn to abandoned structures, be they decrepit castles, dilapidated farms, or foreboding dungeons, seeking solace in these desolate realms away from the living. Given their chilling nature, the undead instinctively avoid human settlements. Rarely welcomed among the living, they lurk in the shadows, wary of the fear and revulsion they evoke. 
+
+Their existence is often relegated to the realm of horror stories, their presence stirring unease and trepidation. Instead, they find comfort in the solitude of forsaken places, where they can dwell undisturbed, far from the watchful eyes of the living. Should the need arise, the undead may reluctantly interact with the living. However, they cloak themselves in full clothing or armor, obscuring their skeletal visage from prying eyes. The true face of an undead remains a mystery, concealed behind layers of fabric and protection. No man, elf, or dwarf has ever beheld the stark countenance of an undead, as their lack of breathing and skeletal form betray their inhuman nature. 
+
+#### Combat Style
+
+In battle, the undead favor swords and shields as their weapons of choice. Their skeletal forms possess an eerie grace as they wield their blades with precision and efficiency. Shields become an extension of their spectral defense, aiding them in warding off attacks. Furthermore, their undeath grants them a resistance against piercing assaults, including arrows that would typically find their mark. The resilience of their spectral existence affords them an advantage in the face of such threats. 
+
+#### Stats
+
+Undead begin with the following ability points at level 0:
+
+- 30 Vitality
+- 10 Sanity
+- +2 Strength
+- +2 Dexterity
+- +2 Intelligence
+- +0 Willpower
+
+#### Special Abilities
+
+**Darkvision:** Undead have darkvision. In contrast with popular superstitions, they do not have light sensitivity.
+
+**Frightful Presence:** Undead are haunting in sight. They gain advantage to impose fear effects on their targets. 
+
+**Needs Needn't:** The undead don't need to ingest food or water. They don't become starved or parched. They do not breathe. They are immune to nauseating effects. 
+
+**Old Ones:** Undead were there when history was written. They gain +3 Profession points, in the scholar profession. 
+
+**Mental Suffering:** Undead are constantly crushed by the weight of their existence, reliving their death a million times over. They have vulnerability against the spirit element.
+
+**Sticks n Stones:** Undead gain resistance against piercing attacks (including arrows).

@@ -1,0 +1,52 @@
+---
+title: "Exsul"
+---
+
+### Information
+
+#### Origins
+
+To attain the ability to control fire, a Sylvan can choose to make the Pact of Fire: by drinking a fire Dragon's blood, the Elf unlocks the ability to wield fire. Elves that make the Pact of Fire are no longer welcome within the forest and have their connection to their mother tree lost forever. They are the ones known as Exsul.
+
+#### Physical Form
+
+#### Society
+
+Exsul live in great, human-like cities of marble and metal. They practice the art of war and combat. Their mission is to hunt down and kill dragons. They are more attuned with the other races, especially humans, with whom they share a deep interest in art.
+
+#### Combat Style
+
+Exsul practice the art of sword dancing. They are exceptional wielders of blades, commonly scimitars, and glaves. Exsul usually wear leather or metal armor. 
+
+### Stats
+
+Exsul begin with the following ability points at level 0:
+
+- 10 Vitality
+- 20 Sanity
+- +2 Strength
+- +2 Dexterity
+- +2 Intelligence
+- +1 Willpower
+
+### Special Abilities
+
+##### Pact of Fire
+
+Exsul have resistance to burning damage and vulnerability to spirit damage.
+
+##### Sun's Favor
+
+Exsul gain a +1 willpower bonus during the day and receive a -1 willpower penalty during the night.
+
+##### Thermosense
+
+Exsul can discern creatures by their body heat. 
+
+##### Animal Senses
+
+Elves have a keen sense of hearing, gaining a +5 bonus to perception.
+
+##### Talented
+
+Exsul practice many different arts. They gain +1 profession point.

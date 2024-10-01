@@ -1,0 +1,11 @@
+---
+title: "Action Economy"
+---
+
+### Combat Turn
+
+On their turn during combat or any relevant situation, each character possesses a pool of Strength, Dexterity, Intelligence, and Willpower points, directly influenced by their respective abilities. Depending on the task or action they wish to perform, players can invest these points into specific skills. Each skill has a Tier, which represents its costs. 
+
+### Movement Points
+
+In its turn, each creature has 10 movement points to spend besides its ability points. These points can be utilized to move or perform other kinds of actions. 1 Dexterity point can be exchanged for 2 movement points. The following lists cover some common cases of action economy.

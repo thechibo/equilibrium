@@ -1,0 +1,49 @@
+---
+title: "Cyborgs"
+---
+
+<div class = "sidefigure">
+  ![](../../../figures/cyborg.png){fig-alt="Cyborg" fig-align="right"}
+</div>
+
+#### Origins
+
+In the realms of advanced cities where robotic prosthetics have become a cornerstone of medical innovation, a new race has emerged---the cyborgs. Blending human essence with mechanical marvels, these beings exist as a synthesis of flesh and metal. 
+
+#### Physical Form
+
+Though their intelligence remains on par with their human origins, their physical forms can vary vastly from their purely organic counterparts. Each cyborg bears a unique appearance, reflecting the intricate craftsmanship of self-modification or the expertise of skilled artificers who have shaped their beings. The cyborgs stand as a testament to the boundless possibilities of melding man and machine. Their lifespan is no longer confined to the limitations of mere mortals. The durability of their engineered components determines the length of their existence, ranging from relatively short if poor-quality parts were employed, to potentially surpassing the human lifespan by a significant margin. The question of whether they can reach eternity, an uncharted realm of everlasting existence, looms in the realm of speculation. As they continue to push the boundaries of augmentation and advancement, the potential for an existence beyond the confines of time becomes an intriguing possibility.
+
+#### Society
+
+Within the bustling cities where the cyborgs dwell, they are both revered and misunderstood. Their existence serves as a testament to the ingenuity and advancements of society, yet their unique appearances can cause unease among those unaccustomed to their sight. The cyborgs, ever-evolving and forging their own path in a world of endless possibilities, do not worry themselves with the opinions of conservative, mortal beings. They challenge the very definition of what it means to be alive, blurring the lines between biological and mechanical, and leaving an indelible mark on the annals of civilization.
+
+#### Combat Style
+
+In matters of combat, cyborgs possess a formidable prowess, particularly when wielding heavy weapons. The strength and endurance granted by their mechanical augmentations allow them to unleash devastating force, wielding massive arms of destruction with relative ease. Finesse weapons, however, may prove less suited to their enhanced forms, as their focus lies in raw power rather than delicate precision. Their hard exterior shell serves as a protective layer, rendering the need for additional armor somewhat unnecessary. Crafted from resilient alloys and advanced materials, their shells provide a level of defense that surpasses conventional armors. It is within this impenetrable fortress that they find solace, allowing their internal mechanisms to function without fear of immediate harm.
+
+#### Stats 
+
+Cyborgs begin with the following ability points at level 0:
+
+- 30 Vitality
+- 10 Sanity
+- +3 Strength
+- +1 Dexterity
+- +1 Intelligence
+- +1 Willpower
+
+#### Special Abilities
+
+**Bzzzt:** Cyborgs short-circuit when they come in contact with water. They are vulnerable to frost damage. They can't swim.
+
+**Natural Armor:** Cyborgs have skin mostly made of metal, gaining a +2 natural armor bonus.
+
+**Weapon of Destruction:** Depending on their build, cyborgs can have 2 of the following skills. 
+
+- Weaponized Arm: Gain a chainsaw attack that causes 1d12 slashing damage.
+- Grappling hook: Equip a grappling hook. 
+- Wheel(s): Gain +3 movement speed. 
+- Sonar: Gain darkvision. 
+- Goggles: Gain thermosense. 
+- Tool Kit: Equip thieves' tools. Gain advantage on lock-picking dexterity checks.

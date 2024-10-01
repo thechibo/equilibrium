@@ -1,0 +1,27 @@
+---
+title: "Sanity"
+---
+
+### Introduction
+
+Sanity measures mental stability and fortitude. In the mysterious and perilous realms, adventurers must not only face physical threats but also the daunting challenges that test the limits of their sanity. Just as Vitality guards against the harsh blows of physical combat, Sanity safeguards against the relentless onslaught of mental exhaustion.
+
+As characters delve into the depths of ancient ruins, confront eldritch horrors, and unravel dark secrets, their sanity will be tested, and the consequences of losing these precious points could be dire. Hallucinations, paranoia, and a fog of anxiety are just a few of the harrowing effects that may befall those who venture too close to the abyss of their own minds. Prepare yourselves, for in this extraordinary journey, the greatest challenges may not lurk in the shadows but lie within the fragile sanctuary of your sanity.
+
+### Personality and Mental Conditions
+
+The five mental conditions (anger, sorrow, confusion, fear, and charm) cause mental distress to a creature. Every character has a personality chart modeling five traits that each counters one condition (calm, mirthful, inquisitive, courageous, and cautious). Characters have 12 points to distribute in these traits, 0-5 points to each one. Upon receiving a condition, the character loses 5 sanity points, reduced by the number of points allocated to the corresponding personality trait. For example, a creature with a score of 2 in calm only takes 3 points of sanity damage from the anger condition.
+ 
+Some races impose restrictions on the point allocation. Magic items and enchanted jewelry can grant extra personality points.
+
+<div>
+  ![](../../../figures/personality.png){fig-alt="personality" width="50%" fig-align="center"}
+</div>
+
+### Sleep Deprivation
+
+A creature can choose to stay awake for several additional hours beyond its normal waking hours (16 for most characters). For each day that a creature does not get a full 8-hour rest, it takes 5 points of sanity damage. When it comes to restoring sanity, there is nothing like a good night's sleep. A creature restores 20 sanity points, up to its total maximum, each day it gets a full rest. Profession-wise, entertainers have the unique ability to restore sanity using their performance.
+
+### Losing Sanity
+
+As characters lose their sanity, madness starts to kick in. Delirium, hallucinations, amnesia, catatonia, psychosomatic loss, or schizophrenia. All of these conditions are tasty nourishment for the terrors known as toons, which will hunt and haunt down relentlessly any creature that has a low sanity score. If a creature’s sanity reaches 0, expect a swarm of toons to appear.

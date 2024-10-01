@@ -1,0 +1,41 @@
+---
+title: "Attack and Damage"
+---
+
+### Skill Categories
+
+Combat skills are divided into four categories, depending on the ability they draw upon. Skills from the same or different categories may be combined to create powerful blows.
+
+-	Feats are powerful skills that draw upon Strength, causing heavy wounds on the targets.
+-	Maneuvers utilize Dexterity in order to wear the opponent down.
+-	Spells are manifestations of elemental magic, driven by one’s Intelligence.
+-	Evocations rely on sere Willpower to unlock the true potential hidden within.
+
+### Skill Range
+
+Combat skills and weapons have a specific range of effect.
+
+-	Touch: 1m.
+-	Close: 2m.
+-	Short: 5m.
+-	Medium: 10m.
+-	Long: 20m.
+-	Distant: 50m.
+
+### Damage Type
+
+There are several types of damage, and creatures may be resistant or vulnerable against one or more damage types.
+
+-	Bludgeoning, caused by weapons such as hammers and clubs or certain spells, mainly geomancer ones.
+-	Piercing, caused by weapons such as knives and arrows. 
+-	Slashing, caused by weapons such as swords and axes or certain spells, mainly aerotheurge ones.
+-	Burning, caused by high temperatures, fire, or certain spells, mainly pyrokinetic ones.
+-	Frost, caused by low temperatures, ice or certain spells, mainly hydrosophist ones.
+-	Radiant, caused by intense light, or certain spells, mainly lightweaver ones.
+-	Necrotic, caused by certain weapons or shadowcaster spells.
+-	Bleeding, dealt to a creature at the beginning of its turns until it is stopped. 
+-	Sunder, caused to objects. Yes, each object has its own Vitality and may as well break.
+
+### Damage & Armor
+
+Armor represents how hard it is to land a solid, damaging blow on a creature. It’s the damage reduction applied on each individual attack. Armor is calculated as the sum of the creature’s the individual armor parts. Some races also receive a natural armor bonus. 

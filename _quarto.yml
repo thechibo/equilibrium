@@ -1,0 +1,154 @@
+project:
+  type: website
+
+website:
+  title: "Equilibrium"
+  navbar:
+    title: false
+    logo: figures/logo_small.png
+    pinned: true
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: handbook/index.qmd
+        text: "Player's Handbook"
+      - href: universe/index.qmd
+        text: "The Universe"
+      - href: creator/character_sheet.pdf
+        text: "Character Sheet"
+  page-footer: 
+    left: "Copyright 2024, Chibo and Nonobird"
+    background: light
+    right: 
+      - icon: github
+        href: https://github.com/
+      - icon: twitter 
+        href: https://twitter.com/ 
+        
+  sidebar:
+    - title: "Player's Handbook"
+      contents:
+      - handbook/index.qmd
+      - section: "Modeling"
+        contents:
+          - section: "Characters"
+            contents:
+            - handbook/modeling/characters/creation.qmd
+            - handbook/modeling/characters/skills.qmd
+            - handbook/modeling/characters/professions.qmd
+            - handbook/modeling/characters/leadership.qmd
+          - section: "Abilities"
+            contents:
+            - handbook/modeling/abilities/vitality.qmd
+            - handbook/modeling/abilities/sanity.qmd
+            - handbook/modeling/abilities/strength.qmd
+            - handbook/modeling/abilities/dexterity.qmd
+            - handbook/modeling/abilities/intelligence.qmd
+            - handbook/modeling/abilities/willpower.qmd
+      - section: "Races"
+        contents:
+          - section: "Humankin"
+            contents:
+            - handbook/races/humankin/humans.qmd
+            - handbook/races/humankin/fey_touched.qmd
+            - handbook/races/humankin/dragonborn.qmd
+            - handbook/races/humankin/demonspawn.qmd
+            - handbook/races/humankin/cyborg.qmd
+            - handbook/races/humankin/undead.qmd
+          - section: "Dwarvenkin"
+            contents:
+            - handbook/races/dwarvenkin/lethenae.qmd
+            - handbook/races/dwarvenkin/jotnar.qmd
+            - handbook/races/dwarvenkin/percians.qmd
+            - handbook/races/dwarvenkin/gnomes.qmd
+          - section: "Elvenkin"
+            contents:
+            - handbook/races/elvenkin/sylvan.qmd
+            - handbook/races/elvenkin/exsul.qmd
+            - handbook/races/elvenkin/nox.qmd
+          - section: "Greenkin"
+            contents:
+            - handbook/races/greenkin/orcs.qmd
+            - handbook/races/greenkin/trolls.qmd
+            - handbook/races/greenkin/goblins.qmd
+      - section: "Combat"
+        contents:
+          - section: "Rules"
+            contents:
+            - handbook/combat/rules/flow.qmd
+            - handbook/combat/rules/attack.qmd
+            - handbook/combat/rules/conditions.qmd
+            - handbook/combat/rules/action.qmd
+          - section: "Feats (Strength)"
+            contents:
+            - handbook/combat/feats/soldier.qmd
+          - section: "Maneuvers (Dexterity)"
+            contents:
+            - handbook/combat/maneuvers/assassin.qmd
+          - section: "Spells (Intelligence)"
+            contents:
+            - handbook/combat/spells/geomancer.qmd
+            - handbook/combat/spells/pyrokinetic.qmd
+            - handbook/combat/spells/hydrosophist.qmd
+            - handbook/combat/spells/aerotheurge.qmd
+          - section: "Evocations (Willpower)"
+            contents:
+            - handbook/combat/evocations/shadowcaster.qmd
+            - handbook/combat/evocations/lightweaver.qmd
+            - handbook/combat/evocations/spiritbinder.qmd
+      - section: "Equipment"
+        contents:
+          - section: "Arms"
+            contents:
+            - handbook/equipment/arms/weapons.qmd
+            - handbook/equipment/arms/armor.qmd
+          - section: "Machinery"
+            contents:
+            - handbook/equipment/machinery/explosives.qmd
+            - handbook/equipment/machinery/fuels.qmd
+            - handbook/equipment/machinery/parts.qmd
+            - handbook/equipment/machinery/machines.qmd
+          - section: "Clothing"
+            contents:
+            - handbook/equipment/clothing/clothes.qmd
+            - handbook/equipment/clothing/footwear.qmd
+            - handbook/equipment/clothing/gloves.qmd
+            - handbook/equipment/clothing/goggles.qmd
+          - section: "Everyday Items"
+            contents:
+            - handbook/equipment/everyday/gems.qmd
+            - handbook/equipment/everyday/illumination.qmd
+            - handbook/equipment/everyday/jewelries.qmd
+            - handbook/equipment/everyday/scripta.qmd
+          - section: "Medical"
+            contents:
+            - handbook/equipment/medical/herbs.qmd
+            - handbook/equipment/medical/potions.qmd
+            - handbook/equipment/medical/poisons.qmd
+    - title: "The Universe"
+      contents:
+      - universe/index.qmd
+      - section: "Realms"
+        contents:
+          - section: "Terra"
+            contents:
+            - universe/realms/terra/seasons.qmd
+      - section: "Pantheon"
+        contents:
+          - section: "Pagan Deities"
+            contents:
+            - universe/pantheon/pagan/arborvitae.qmd
+          - section: "The Ascended"
+            contents:
+            - universe/pantheon/pagan/arborvitae.qmd
+          - section: "The Cursed Ones"
+            contents:
+            - universe/pantheon/pagan/arborvitae.qmd
+format:
+  html:
+    page-layout: full
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+editor: source
