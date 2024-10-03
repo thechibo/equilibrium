@@ -720,10 +720,10 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="skill-categories">Skill Categories</h3>
 <p>Combat skills are divided into four categories, depending on the ability they draw upon. Skills from the same or different categories may be combined to create powerful blows.</p>
 <ul>
-<li>Feats are powerful skills that draw upon Strength, causing heavy wounds on the targets.</li>
-<li>Maneuvers utilize Dexterity in order to wear the opponent down.</li>
-<li>Spells are manifestations of elemental magic, driven by one’s Intelligence.</li>
-<li>Evocations rely on sere Willpower to unlock the true potential hidden within.</li>
+<li>Feats are powerful skills that draw upon strength, causing heavy wounds on the targets.</li>
+<li>Maneuvers utilize dexterity in order to wear the opponent down.</li>
+<li>Spells are manifestations of elemental magic, driven by one’s intelligence.</li>
+<li>Evocations rely on sere willpower to unlock the true potential hidden within.</li>
 </ul>
 </section>
 <section id="skill-range" class="level3">
@@ -756,6 +756,24 @@ ul.task-list li input[type="checkbox"] {
 <section id="damage-armor" class="level3">
 <h3 class="anchored" data-anchor-id="damage-armor">Damage &amp; Armor</h3>
 <p>Armor represents how hard it is to land a solid, damaging blow on a creature. It’s the damage reduction applied on each individual attack. Armor is calculated as the sum of the creature’s the individual armor parts. Some races also receive a natural armor bonus.</p>
+</section>
+<section id="ability-contests" class="level3">
+<h3 class="anchored" data-anchor-id="ability-contests">Ability Contests</h3>
+<p>Some attacks require a contest between the attacker and the defendant to succeed. These contests are by default deterministic, meaning that the creature with the highest ability score succeeds (ties benefit the defendant). These contests are denoted in parenthesis: the first ability concerns the attacker, and the second the defendant. For example: (strength vs dexterity) or (willpower vs willpower). In many cases, the defendant gets to choose between two ability scores, e.g.&nbsp;(strength vs strength/dexterity). If the attack fails, the special effect (e.g.&nbsp;slowed or enraged) fails as well; all other damage is calculated as normal.</p>
+</section>
+<section id="turn-example" class="level3">
+<h3 class="anchored" data-anchor-id="turn-example">Turn Example</h3>
+<p>Ron the human butcher is chasing Grin the goblin for throwing his cat into the stew. The two characters are 14m apart. Ron yields a shovel and a kitchen knife. Grin wears some scraps as armor. The stats of the two creatures are the following: Ron (level 7): 40 vitality, 20 sanity, 4 strength, 3 dexterity, 2 intelligence, 2 willpower. Grin (level 3): 30 vitality, 10 sanity, 1 strength, 4 dexterity, 3 intelligence, 1 willpower.</p>
+<ul>
+<li>Both creatures roll d10 for initiative. Ron (8 roll + 3 dex) = 11, Grin (4 roll + 4 dex) = 8.</li>
+<li>Ron starts his turn. He has 4 str, 3 dex, 2 int, 2 will available, plus the 10m of movement.</li>
+<li>Ron moves 10m and utilizes 2 dex to move another 4m and be in touch range of Grin.</li>
+<li>Ron performs a finesse attack with the dagger (1 dex), enhanced by a fire orb spell (1 int).</li>
+<li>Ron rolls the damage (6 dagger + 3 fire orb) = 9.</li>
+<li>Grin has an armor of 1 (scraps), therefore takes (9 – 1) = 8 points of damage. He now has (30 - 8) = 22 vitality points.</li>
+<li>Ron deals a shovel attack (1 str), enhanced by power attack (1 str) and overpower (1 str).</li>
+<li>Grin uses the cat reflexes reaction (1 dex) enhanced by evade (2 dex) to move to an adjacent square. At this point, Ron still has 1 str, 1 int and 2 will to utilize in his turn. At the end of his turn, all of his ability points will be replenished and ready to use again.Grin has used a reaction (a total of 3 dex points), meaning that in his turn he will only have (4 - 3) = 1 dex point available to utilize.</li>
+</ul>
 
 
 </section>
