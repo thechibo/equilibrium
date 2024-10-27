@@ -723,7 +723,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="talent-list" class="level3">
 <h3 class="anchored" data-anchor-id="talent-list">Talent List</h3>
 <h4 class="anchored">
-<b> Rock Hammer
+<b> Stoneskin
 </b></h4><b>
 </b><p><b></b></p>
 <!-- -->
@@ -747,10 +747,10 @@ Description
 1
 </td>
 <td style="text-align:left;width: 25%; ">
-Rock Hammer
+Stoneskin
 </td>
 <td style="text-align:left;width: 69%; ">
-Conjure a rock hammer in your hands. The weapon has the normal attributes of a warhammer. It disappears the moment it leaves your possession. The rock can instead be used to enhance a physical weapon that deals bludgeoning damage; in this case it adds 1d8 points of bludgeoning damage to the damage roll.
+Coat your arm or a melee bludgeoning weapon you wield in stone, adding 1d6 points of bludgeoning damage to the damage roll.
 </td>
 </tr>
 <tr>
@@ -761,7 +761,7 @@ Conjure a rock hammer in your hands. The weapon has the normal attributes of a w
 Crippling Blow
 </td>
 <td style="text-align:left;width: 69%; ">
-Cripple the target, slowing it for one round.
+Cripple the target, slowing them until the end of their turn. This effect only applies if the attack is successful (deals at least 1 point of damage).
 </td>
 </tr>
 <tr>
@@ -772,7 +772,7 @@ Cripple the target, slowing it for one round.
 Stone Ram
 </td>
 <td style="text-align:left;width: 69%; ">
-Your attacks push the target 3m away from you.
+Your attacks push the target 3m away from you. This effect only applies if the attack is successful.
 </td>
 </tr>
 <tr>
@@ -783,18 +783,7 @@ Your attacks push the target 3m away from you.
 Sand Burst
 </td>
 <td style="text-align:left;width: 69%; ">
-Each time your hammer hits, it emits a cloud of sand in the target’s eyes to blind them (Intelligence vs Dexterity contest) until the beginning of your next turn.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;width: 6%; text-align: right;">
-+2
-</td>
-<td style="text-align:left;width: 25%; ">
-Catapult
-</td>
-<td style="text-align:left;width: 69%; ">
-You can use the hammer to toss rocks in medium range. The rocks shatters in pieces upon impact, dealing 2d8 bludgeoning damage to the target.
+The point of impact emits a cloud of sand in the target’s eyes to blind them (Intelligence vs Dexterity contest) until the end of their turn. This effect only applies if the attack is successful (deals at least 1 point of damage), and does not apply on the current attack.
 </td>
 </tr>
 </tbody>
@@ -828,7 +817,7 @@ Description
 Ironskin
 </td>
 <td style="text-align:left;width: 69%; ">
-You gain +1 natural armor. This spell stacks with itself.
+You gain +1 natural armor. This spell stacks with itself. This spell immediately stops any bleeding effects on the target. The initial bleeding damage dealt at the start of the target’s turn still applies.
 </td>
 </tr>
 <tr>
@@ -1246,6 +1235,84 @@ The elemental can engulf a willing creature, protecting it. Any physical damage 
 </table>
 <!-- -->
 <h4 class="anchored">
+<b> Sand Bullet
+</b></h4><b>
+</b><p><b></b></p>
+<!-- -->
+<table class=" talent" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Tier
+</th>
+<th style="text-align:left;">
+Name
+</th>
+<th style="text-align:left;">
+Description
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;width: 6%; text-align: right;">
+1
+</td>
+<td style="text-align:left;width: 25%; ">
+Sand Bullet
+</td>
+<td style="text-align:left;width: 69%; ">
+Flick your finger and shoot a small sand bullet in short range, dealing 2d4 points of piercing damage.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6%; text-align: right;">
++1
+</td>
+<td style="text-align:left;width: 25%; ">
+Spinning Sand
+</td>
+<td style="text-align:left;width: 69%; ">
+The sand spins rapidly inside the wound, dealing 1d4 points of bleeding damage, at the start of the target’s next turn. This effect only applies if the attack is successful (deals at least 1 point of damage).
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6%; text-align: right;">
++1
+</td>
+<td style="text-align:left;width: 25%; ">
+Medium Range
+</td>
+<td style="text-align:left;width: 69%; ">
+Increase the range to medium.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6%; text-align: right;">
++2
+</td>
+<td style="text-align:left;width: 25%; ">
+Piercing Bullet
+</td>
+<td style="text-align:left;width: 69%; ">
+The bullet pierces the target’s body, dealing 1d8 points of bleeding damage at the start of the target’s next turn. This effect only applies if the attack is successful (deals at least 1 point of damage). Piercing bullets leave the target’s body and do not count for the effects of sand prison.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 6%; text-align: right;">
++3
+</td>
+<td style="text-align:left;width: 25%; ">
+Sand Prison
+</td>
+<td style="text-align:left;width: 69%; ">
+The target becomes restrained for this turn. In order to apply this effect, the target needs to have at least one bullet for every 10 points of maximum vitality already inside their body.
+</td>
+</tr>
+</tbody>
+</table>
+<!-- -->
+<h4 class="anchored">
 <b> Earth Wall ®
 </b></h4><b>
 </b><p><b></b></p>
@@ -1274,40 +1341,6 @@ Earth Wall ®
 </td>
 <td style="text-align:left;width: 69%; ">
 Create a large wall made of earth. The wall takes a combined space of 3 cubed meters.
-</td>
-</tr>
-</tbody>
-</table>
-<!-- -->
-<h4 class="anchored">
-<b> Sand Bullet
-</b></h4><b>
-</b><p><b></b></p>
-<!-- -->
-<table class=" talent" style="margin-left: auto; margin-right: auto;">
-<thead>
-<tr>
-<th style="text-align:left;">
-Tier
-</th>
-<th style="text-align:left;">
-Name
-</th>
-<th style="text-align:left;">
-Description
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;width: 6%; text-align: right;">
-1
-</td>
-<td style="text-align:left;width: 25%; ">
-Sand Bullet
-</td>
-<td style="text-align:left;width: 69%; ">
-Flick your finger and shoot a small sand bullet in mid-range, dealing 2d4 points of piercing damage.
 </td>
 </tr>
 </tbody>
